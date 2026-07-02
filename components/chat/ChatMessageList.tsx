@@ -48,11 +48,16 @@ export function ChatMessageList() {
   );
 }
 
+// Chat input now floats as its own layer above this list (see BottomSheet's
+// `footer` prop), so content needs enough bottom clearance to not render
+// underneath it at any snap point.
+const FOOTER_CLEARANCE = 88;
+
 const styles = StyleSheet.create({
   content: {
     paddingHorizontal: 16,
     paddingTop: 8,
-    paddingBottom: 16,
+    paddingBottom: FOOTER_CLEARANCE,
   },
   emptyState: {
     flex: 1,
@@ -60,6 +65,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     paddingHorizontal: 32,
     paddingTop: 40,
+    paddingBottom: FOOTER_CLEARANCE,
     gap: 6,
   },
   emptyTitle: {

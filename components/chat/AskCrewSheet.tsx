@@ -6,7 +6,7 @@ import { ChatMessageList } from "./ChatMessageList";
 
 export const AskCrewSheet = forwardRef<BottomSheetHandle>((_props, ref) => {
   return (
-    <BottomSheet ref={ref}>
+    <BottomSheet ref={ref} footer={<ChatInput />}>
       <View style={styles.header}>
         <Text style={styles.headerTitle}>Ask Crew</Text>
         <Text style={styles.headerSubtitle}>Your AI travel assistant</Text>
@@ -14,7 +14,6 @@ export const AskCrewSheet = forwardRef<BottomSheetHandle>((_props, ref) => {
       <View style={styles.body}>
         <ChatMessageList />
       </View>
-      <ChatInput />
     </BottomSheet>
   );
 });

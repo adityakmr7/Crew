@@ -1,13 +1,13 @@
-import { useCallback, useRef } from "react";
-import { StatusBar, StyleSheet } from "react-native";
-import { SafeAreaView } from "react-native-safe-area-context";
 import { AskCrewSheet } from "@/components/chat/AskCrewSheet";
-import { FeedList } from "@/components/feed/FeedList";
 import { AskCrewFAB } from "@/components/fab/AskCrewFAB";
+import { FeedList } from "@/components/feed/FeedList";
 import { PerformanceOverlay } from "@/components/perf/PerformanceOverlay";
 import { PerfToggleButton } from "@/components/perf/PerfToggleButton";
 import type { BottomSheetHandle } from "@/components/ui/BottomSheet";
 import { useUiStore } from "@/store/uiStore";
+import { useCallback, useRef } from "react";
+import { StatusBar, StyleSheet } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
 
 export default function Index() {
   const sheetRef = useRef<BottomSheetHandle>(null);

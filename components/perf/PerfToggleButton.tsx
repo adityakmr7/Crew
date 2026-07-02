@@ -1,6 +1,6 @@
+import { useUiStore } from "@/store/uiStore";
 import { Ionicons } from "@expo/vector-icons";
 import { Pressable, StyleSheet } from "react-native";
-import { useUiStore } from "@/store/uiStore";
 
 export function PerfToggleButton() {
   const isOverlayVisible = useUiStore((s) => s.isOverlayVisible);
@@ -20,7 +20,7 @@ export function PerfToggleButton() {
 const styles = StyleSheet.create({
   button: {
     position: "absolute",
-    top: 8,
+    top: 50,
     left: 16,
     width: 36,
     height: 36,
