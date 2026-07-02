@@ -1,0 +1,3792 @@
+[
+  {
+    "id": "bundle-1",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-0-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2845,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.9,
+    "reviewCount": 1197,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 4,
+        "icon": "trail-sign",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 7,
+        "icon": "leaf",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 8,
+        "icon": "camera",
+        "title": "Departure, late checkout included"
+      }
+    ]
+  },
+  {
+    "id": "bundle-2",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-1-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1415,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.4,
+    "reviewCount": 131,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "wine",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "sunny",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-3",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-2-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2785,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4,
+    "reviewCount": 466,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "bed",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 2,
+        "icon": "walk",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "sunny-outline",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-4",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-3-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1355,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.9,
+    "reviewCount": 801,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "walk",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "sunny",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-5",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-4-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2720,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.5,
+    "reviewCount": 1135,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "sunny-outline",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "compass",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 8,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-6",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-5-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1290,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4,
+    "reviewCount": 70,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 4,
+        "icon": "wine",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-7",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-6-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2660,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 5,
+    "reviewCount": 405,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 3,
+        "icon": "boat",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 6,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-8",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-7-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1230,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.5,
+    "reviewCount": 739,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "camera",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "leaf",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 7,
+        "icon": "boat",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 8,
+        "icon": "sunny",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-9",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-8-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2600,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.1,
+    "reviewCount": 1074,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "boat",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-10",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-9-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1170,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 3.6,
+    "reviewCount": 1408,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "sunny",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "wine",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-11",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-10-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2540,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.6,
+    "reviewCount": 343,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 6,
+        "icon": "sunny-outline",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 7,
+        "icon": "boat",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-12",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-11-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1110,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.1,
+    "reviewCount": 678,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "camera",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-13",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-12-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2475,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 3.7,
+    "reviewCount": 1012,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "camera",
+        "title": "Departure, late checkout included"
+      }
+    ]
+  },
+  {
+    "id": "bundle-14",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-13-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1045,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.6,
+    "reviewCount": 1347,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "trail-sign",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "airplane",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 6,
+        "icon": "sunny-outline",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 7,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-15",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-14-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2415,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.2,
+    "reviewCount": 282,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 5,
+        "icon": "sunny",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 7,
+        "icon": "sunny",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-16",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-15-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 985,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 3.7,
+    "reviewCount": 616,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-17",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-16-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2355,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.7,
+    "reviewCount": 951,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 2,
+        "icon": "bed",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 5,
+        "icon": "airplane",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-18",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-17-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 925,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.2,
+    "reviewCount": 1286,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "compass",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 4,
+        "icon": "airplane",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 8,
+        "icon": "sunny-outline",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-19",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-18-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2295,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 3.8,
+    "reviewCount": 220,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 4,
+        "icon": "sunny-outline",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-20",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-19-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 865,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.7,
+    "reviewCount": 555,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 5,
+        "icon": "walk",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-21",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-20-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2230,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.3,
+    "reviewCount": 890,
+    "dayHighlights": [
+      {
+        "day": 4,
+        "icon": "camera",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 5,
+        "icon": "boat",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 6,
+        "icon": "boat",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 7,
+        "icon": "airplane",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-22",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-21-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 800,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 3.8,
+    "reviewCount": 1224,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 6,
+        "icon": "camera",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 7,
+        "icon": "walk",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-23",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-22-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2170,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.8,
+    "reviewCount": 159,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "compass",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "airplane",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 4,
+        "icon": "wine",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-24",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-23-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 740,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.3,
+    "reviewCount": 494,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "sunny",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 5,
+        "icon": "leaf",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 6,
+        "icon": "bed",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-25",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-24-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2110,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 3.9,
+    "reviewCount": 828,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "leaf",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 7,
+        "icon": "airplane",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-26",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-25-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 680,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.8,
+    "reviewCount": 1163,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 3,
+        "icon": "compass",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 4,
+        "icon": "sunny-outline",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-27",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-26-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2050,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.4,
+    "reviewCount": 98,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 3,
+        "icon": "camera",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "boat",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-28",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-27-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 620,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 3.9,
+    "reviewCount": 432,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "bed",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 4,
+        "icon": "leaf",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 7,
+        "icon": "restaurant",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 8,
+        "icon": "sunny",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-29",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-28-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1985,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.9,
+    "reviewCount": 767,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 2,
+        "icon": "sunny",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-30",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-29-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 555,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.4,
+    "reviewCount": 1102,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "leaf",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 4,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-31",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-30-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1925,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4,
+    "reviewCount": 36,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "airplane",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 5,
+        "icon": "sunny",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 7,
+        "icon": "boat",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-32",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-31-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 495,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.9,
+    "reviewCount": 371,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "boat",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 7,
+        "icon": "camera",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-33",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-32-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1865,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.5,
+    "reviewCount": 706,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "airplane",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "compass",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-34",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-33-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 435,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4,
+    "reviewCount": 1040,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 6,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-35",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-34-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1805,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 5,
+    "reviewCount": 1375,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "camera",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 6,
+        "icon": "camera",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 7,
+        "icon": "sunny",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-36",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-35-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 375,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.5,
+    "reviewCount": 310,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-37",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-36-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1740,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.1,
+    "reviewCount": 644,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "walk",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 5,
+        "icon": "bed",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-38",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-37-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 310,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 3.6,
+    "reviewCount": 979,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "boat",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 6,
+        "icon": "leaf",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-39",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-38-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1680,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.6,
+    "reviewCount": 1314,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "boat",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 7,
+        "icon": "wine",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-40",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-39-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 250,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.1,
+    "reviewCount": 248,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 4,
+        "icon": "trail-sign",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-41",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-40-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1620,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 3.7,
+    "reviewCount": 583,
+    "dayHighlights": [
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 5,
+        "icon": "walk",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 6,
+        "icon": "bed",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-42",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-41-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 190,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.6,
+    "reviewCount": 918,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "boat",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 5,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 6,
+        "icon": "trail-sign",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-43",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-42-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1560,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.2,
+    "reviewCount": 1252,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "bed",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 2,
+        "icon": "camera",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-44",
+    "destination": "Santorini",
+    "country": "Greece",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-43-santorini/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2930,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 3.7,
+    "reviewCount": 187,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 2,
+        "icon": "walk",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-45",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-44-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1495,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.7,
+    "reviewCount": 521,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "wine",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "compass",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-46",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-45-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2865,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.2,
+    "reviewCount": 856,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "walk",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "boat",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 4,
+        "icon": "boat",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-47",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-46-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1435,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 3.8,
+    "reviewCount": 1191,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "trail-sign",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 2,
+        "icon": "compass",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 3,
+        "icon": "camera",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-48",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-47-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2805,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.7,
+    "reviewCount": 125,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 6,
+        "icon": "restaurant",
+        "title": "Departure, late checkout included"
+      }
+    ]
+  },
+  {
+    "id": "bundle-49",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-48-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1375,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.3,
+    "reviewCount": 460,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "camera",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 6,
+        "icon": "leaf",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 7,
+        "icon": "bed",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-50",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-49-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2745,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 3.8,
+    "reviewCount": 795,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "airplane",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-51",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-50-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1315,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.8,
+    "reviewCount": 1129,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "leaf",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 6,
+        "icon": "restaurant",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-52",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-51-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2685,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.3,
+    "reviewCount": 64,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "walk",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-53",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-52-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1250,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 3.9,
+    "reviewCount": 399,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-54",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-53-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2620,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.8,
+    "reviewCount": 733,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 5,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-55",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-54-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1190,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.4,
+    "reviewCount": 1068,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "wine",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 6,
+        "icon": "compass",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 7,
+        "icon": "trail-sign",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-56",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-55-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2560,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 3.9,
+    "reviewCount": 1403,
+    "dayHighlights": [
+      {
+        "day": 6,
+        "icon": "sunny-outline",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 7,
+        "icon": "sunny-outline",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 8,
+        "icon": "sunny-outline",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 9,
+        "icon": "restaurant",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-57",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-56-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1130,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.9,
+    "reviewCount": 337,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-58",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-57-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2500,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.4,
+    "reviewCount": 672,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "walk",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 2,
+        "icon": "walk",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "walk",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-59",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-58-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1070,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4,
+    "reviewCount": 1007,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 5,
+        "icon": "wine",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 6,
+        "icon": "camera",
+        "title": "Departure, late checkout included"
+      }
+    ]
+  },
+  {
+    "id": "bundle-60",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-59-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2440,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.9,
+    "reviewCount": 1341,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 3,
+        "icon": "compass",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 4,
+        "icon": "walk",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-61",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-60-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1005,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.5,
+    "reviewCount": 276,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "leaf",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "sunny-outline",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-62",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-61-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2375,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4,
+    "reviewCount": 611,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "walk",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 5,
+        "icon": "sunny-outline",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 6,
+        "icon": "walk",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-63",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-62-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 945,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 5,
+    "reviewCount": 945,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 3,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 4,
+        "icon": "wine",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-64",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-63-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2315,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.5,
+    "reviewCount": 1280,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "trail-sign",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-65",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-64-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 885,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.1,
+    "reviewCount": 215,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 5,
+        "icon": "sunny-outline",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 6,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-66",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-65-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2255,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 3.6,
+    "reviewCount": 549,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "leaf",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 4,
+        "icon": "airplane",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 8,
+        "icon": "wine",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-67",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-66-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 825,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.6,
+    "reviewCount": 884,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 4,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-68",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-67-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2195,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.1,
+    "reviewCount": 1219,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "camera",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 5,
+        "icon": "compass",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-69",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-68-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 760,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 3.7,
+    "reviewCount": 153,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "wine",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 4,
+        "icon": "sunny-outline",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 5,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 7,
+        "icon": "sunny-outline",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-70",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-69-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2130,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.6,
+    "reviewCount": 488,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "restaurant",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 2,
+        "icon": "sunny-outline",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-71",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-70-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 700,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.2,
+    "reviewCount": 823,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "walk",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "boat",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-72",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-71-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2070,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 3.7,
+    "reviewCount": 1157,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "boat",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 5,
+        "icon": "bed",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 7,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-73",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-72-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 640,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.7,
+    "reviewCount": 92,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "sunny-outline",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-74",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-73-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2010,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.2,
+    "reviewCount": 427,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "walk",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 4,
+        "icon": "boat",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-75",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-74-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 580,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 3.8,
+    "reviewCount": 761,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "camera",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "camera",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 5,
+        "icon": "restaurant",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-76",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-75-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1950,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.7,
+    "reviewCount": 1096,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 5,
+        "icon": "leaf",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 6,
+        "icon": "camera",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 8,
+        "icon": "bed",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-77",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-76-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 515,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.3,
+    "reviewCount": 31,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "sunny",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "sunny-outline",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-78",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-77-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1885,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 3.8,
+    "reviewCount": 365,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 5,
+        "icon": "camera",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-79",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-78-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 455,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.8,
+    "reviewCount": 700,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "walk",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 5,
+        "icon": "sunny-outline",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-80",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-79-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1825,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.3,
+    "reviewCount": 1034,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 3,
+        "icon": "bed",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-81",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-80-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 395,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 3.9,
+    "reviewCount": 1369,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "sunny-outline",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-82",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-81-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1765,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.8,
+    "reviewCount": 304,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "trail-sign",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "trail-sign",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 5,
+        "icon": "leaf",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-83",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-82-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 335,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.4,
+    "reviewCount": 638,
+    "dayHighlights": [
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 5,
+        "icon": "camera",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 7,
+        "icon": "bed",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 9,
+        "icon": "sunny",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-84",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-83-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1705,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 3.9,
+    "reviewCount": 973,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 2,
+        "icon": "airplane",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "airplane",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-85",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-84-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 270,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.9,
+    "reviewCount": 1308,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 2,
+        "icon": "sunny",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 4,
+        "icon": "sunny",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 5,
+        "icon": "airplane",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-86",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-85-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1640,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.4,
+    "reviewCount": 242,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 6,
+        "icon": "camera",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 8,
+        "icon": "sunny",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-87",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-86-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 210,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4,
+    "reviewCount": 577,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "trail-sign",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 2,
+        "icon": "sunny-outline",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  },
+  {
+    "id": "bundle-88",
+    "destination": "Kyoto",
+    "country": "Japan",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-87-kyoto/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1580,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.9,
+    "reviewCount": 912,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "bed",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 2,
+        "icon": "restaurant",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 3,
+        "icon": "airplane",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "airplane",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-89",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-88-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2950,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.5,
+    "reviewCount": 1246,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "camera",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 4,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 5,
+        "icon": "compass",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-90",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-89-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1520,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4,
+    "reviewCount": 181,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "sunny-outline",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "sunny-outline",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 5,
+        "icon": "wine",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 7,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-91",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-90-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2890,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 5,
+    "reviewCount": 516,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 2,
+        "icon": "sunny",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 4,
+        "icon": "restaurant",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-92",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-91-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1460,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.5,
+    "reviewCount": 850,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "trail-sign",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 4,
+        "icon": "walk",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 5,
+        "icon": "leaf",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 6,
+        "icon": "compass",
+        "title": "Cultural village visit + craft workshop"
+      }
+    ]
+  },
+  {
+    "id": "bundle-93",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-92-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2825,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.1,
+    "reviewCount": 1185,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "compass",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 7,
+        "icon": "wine",
+        "title": "Departure, late checkout included"
+      }
+    ]
+  },
+  {
+    "id": "bundle-94",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-93-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1395,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 3.6,
+    "reviewCount": 120,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "sunny",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "sunny",
+        "title": "Guided old-town walking tour"
+      }
+    ]
+  },
+  {
+    "id": "bundle-95",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-94-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2765,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.6,
+    "reviewCount": 454,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "compass",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 3,
+        "icon": "leaf",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 4,
+        "icon": "wine",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-96",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-95-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1335,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 4.1,
+    "reviewCount": 789,
+    "dayHighlights": [
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 4,
+        "icon": "airplane",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 7,
+        "icon": "airplane",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-97",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-96-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2705,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 3.7,
+    "reviewCount": 1124,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 2,
+        "icon": "camera",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "wine",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "sunny",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-98",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-97-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1275,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.6,
+    "reviewCount": 58,
+    "dayHighlights": [
+      {
+        "day": 2,
+        "icon": "compass",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 3,
+        "icon": "trail-sign",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 4,
+        "icon": "boat",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-99",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-98-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2645,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 4.2,
+    "reviewCount": 393,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 2,
+        "icon": "bed",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 4,
+        "icon": "sunny",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-100",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-99-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1215,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 3.7,
+    "reviewCount": 728,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "wine",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 2,
+        "icon": "boat",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 9,
+        "icon": "bed",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-101",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-100-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2580,
+    "currency": "USD",
+    "durationNights": 3,
+    "rating": 4.7,
+    "reviewCount": 1062,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "leaf",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "wine",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "restaurant",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 4,
+        "icon": "walk",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-102",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-101-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1150,
+    "currency": "USD",
+    "durationNights": 5,
+    "rating": 4.2,
+    "reviewCount": 1397,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "camera",
+        "title": "Day trip to nearby national park"
+      },
+      {
+        "day": 2,
+        "icon": "bed",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 4,
+        "icon": "compass",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 5,
+        "icon": "boat",
+        "title": "Full-day boat excursion to nearby islands"
+      }
+    ]
+  },
+  {
+    "id": "bundle-103",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-102-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2520,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 3.8,
+    "reviewCount": 332,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "compass",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 5,
+        "icon": "compass",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 7,
+        "icon": "walk",
+        "title": "Day trip to nearby national park"
+      }
+    ]
+  },
+  {
+    "id": "bundle-104",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-103-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1090,
+    "currency": "USD",
+    "durationNights": 2,
+    "rating": 4.7,
+    "reviewCount": 666,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "sunny-outline",
+        "title": "Cultural village visit + craft workshop"
+      },
+      {
+        "day": 2,
+        "icon": "bed",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 3,
+        "icon": "airplane",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 4,
+        "icon": "trail-sign",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-105",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-104-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2460,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.3,
+    "reviewCount": 1001,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "wine",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 2,
+        "icon": "boat",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 3,
+        "icon": "airplane",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-106",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-105-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 1030,
+    "currency": "USD",
+    "durationNights": 7,
+    "rating": 3.8,
+    "reviewCount": 1336,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Free morning, private beach access"
+      },
+      {
+        "day": 2,
+        "icon": "sunny-outline",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 4,
+        "icon": "boat",
+        "title": "Arrival & sunset welcome dinner"
+      },
+      {
+        "day": 7,
+        "icon": "walk",
+        "title": "Sunrise viewpoint hike"
+      }
+    ]
+  },
+  {
+    "id": "bundle-107",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "flight_stay",
+    "tripTypeLabel": "Flight + Stay",
+    "heroImageUrl": "https://picsum.photos/seed/crew-106-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2400,
+    "currency": "USD",
+    "durationNights": 9,
+    "rating": 4.8,
+    "reviewCount": 270,
+    "dayHighlights": [
+      {
+        "day": 4,
+        "icon": "bed",
+        "title": "Full-day boat excursion to nearby islands"
+      },
+      {
+        "day": 6,
+        "icon": "wine",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 9,
+        "icon": "compass",
+        "title": "Free morning, private beach access"
+      }
+    ]
+  },
+  {
+    "id": "bundle-108",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-107-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 970,
+    "currency": "USD",
+    "durationNights": 4,
+    "rating": 4.3,
+    "reviewCount": 605,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "walk",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 2,
+        "icon": "leaf",
+        "title": "Local cooking class + market visit"
+      },
+      {
+        "day": 3,
+        "icon": "walk",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "leaf",
+        "title": "Spa afternoon & rooftop dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-109",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "experience",
+    "tripTypeLabel": "Experience",
+    "heroImageUrl": "https://picsum.photos/seed/crew-108-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 2335,
+    "currency": "USD",
+    "durationNights": 6,
+    "rating": 3.9,
+    "reviewCount": 940,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "boat",
+        "title": "Guided old-town walking tour"
+      },
+      {
+        "day": 4,
+        "icon": "leaf",
+        "title": "Spa afternoon & rooftop dinner"
+      },
+      {
+        "day": 6,
+        "icon": "wine",
+        "title": "Arrival & sunset welcome dinner"
+      }
+    ]
+  },
+  {
+    "id": "bundle-110",
+    "destination": "Ubud",
+    "country": "Indonesia",
+    "tripType": "villa",
+    "tripTypeLabel": "Villa",
+    "heroImageUrl": "https://picsum.photos/seed/crew-109-ubud/800/600",
+    "heroImageWidth": 800,
+    "heroImageHeight": 600,
+    "price": 905,
+    "currency": "USD",
+    "durationNights": 8,
+    "rating": 4.8,
+    "reviewCount": 1274,
+    "dayHighlights": [
+      {
+        "day": 1,
+        "icon": "wine",
+        "title": "Sunrise viewpoint hike"
+      },
+      {
+        "day": 4,
+        "icon": "walk",
+        "title": "Departure, late checkout included"
+      },
+      {
+        "day": 6,
+        "icon": "leaf",
+        "title": "Local cooking class + market visit"
+      }
+    ]
+  }
+]
