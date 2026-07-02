@@ -56,3 +56,7 @@ Toggle via the floating speedometer button (top-left). Shows live FPS, a frame-d
 - **Developed and iteration-tested primarily via `expo start --web`** in this environment, which has no Android emulator or iOS simulator attached. One thing that follows from that: the FPS numbers in `PERFORMANCE.md` are left as a template to fill in from a real device/emulator run — the web preview's frame timing is contaminated by the browser-automation tooling used during development and isn't representative of native performance. Browsers also don't cover content with a native keyboard the way iOS/Android do, so the sheet's keyboard-avoidance (auto-expand to full height + `useAnimatedKeyboard()`-driven lift) can only be meaningfully verified on a real device/simulator, not in this web preview.
 - **Node 20+ is required** (see `.nvmrc`) — Metro's config loader uses `Array.prototype.toReversed`, unavailable on Node 18, which Expo SDK 54 doesn't itself enforce.
 - **"Mid-range Android device" target** hasn't been validated on real/emulated hardware in this environment; the perf overlay is built and verified to correctly report FPS/drops/JS-busy/percentiles, but the actual pass/fail against the ≥58fps / ≥55fps / zero-drops-below-45 targets needs a device run.
+
+
+
+LINK: https://www.loom.com/share/bd7d6e8bec2d4f91ac20f9bdfb2dbf24
