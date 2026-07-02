@@ -60,7 +60,14 @@ export function useFrameMetrics(enabled: boolean) {
   const frameCallback = useFrameCallback((frameInfo) => {
     "worklet";
     const dt = frameInfo.timeSincePreviousFrame;
-    if (dt == null) return;
+    // Guards a real, observed edge case: some devices/emulators occasionally
+    // report two consecutive frame callbacks with an identical timestamp
+    // (dt === 0), which isn't a meaningful frame duration to record. Without
+    // this guard, 1000/0 = Infinity feeds into the fpsEma below and poisons
+    // it permanently — `Infinity * 0.9 + anything * 0.1` is still Infinity,
+    // so the live FPS reading gets stuck at "Infinity" for the rest of the
+    // session even though every subsequent frame is fine.
+    if (dt == null || dt <= 0) return;
 
     totalFrames.value += 1;
     const instantFps = 1000 / dt;

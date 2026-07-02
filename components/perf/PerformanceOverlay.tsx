@@ -21,7 +21,7 @@ function PerformanceOverlayBase({ enabled }: PerformanceOverlayProps) {
 
   return (
     <View pointerEvents="box-none" style={styles.container}>
-      <Pressable onPress={() => setExpanded((v) => !v)} style={styles.card}>
+      <Pressable onPress={() => setExpanded((v) => !v)} style={styles.card} hitSlop={10}>
         <View style={styles.row}>
           <View style={[styles.dot, { backgroundColor: fpsColor }]} />
           <Text style={[styles.fpsText, { color: fpsColor }]}>{fmt(fps, 0)} FPS</Text>
@@ -55,7 +55,7 @@ export const PerformanceOverlay = memo(PerformanceOverlayBase);
 const styles = StyleSheet.create({
   container: {
     position: "absolute",
-    top: 8,
+    top: 100,
     right: 8,
     zIndex: 50,
   },
